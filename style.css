@@ -1,0 +1,40 @@
+body {
+  background-image: url("gusto-remote-bg.png");
+  background-size: cover;
+}
+
+.imgBox {
+  background-image: url("patika.png");
+  position: relative;
+  height: 250px;
+  width: 250px;
+  cursor: pointer;
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  display: inline-block;
+  height: 250px;
+  width: 250px;
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+  border: 7px black solid;
+}
+
+.hold {
+  border: solid rgb(53, 226, 18) 4px;
+  opacity: 0.5;
+}
+
+.dashed {
+  background: rgb(214, 206, 206);
+  border-style: dashed;
+}
+
+.hide {
+  display: none;
+}
+
+
