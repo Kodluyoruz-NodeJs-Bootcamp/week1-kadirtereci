@@ -5,6 +5,8 @@ This project is made for HTML Drag and Drop API example.
 
 ![image](https://user-images.githubusercontent.com/46989233/147888412-b40d080d-2b19-4be2-96ca-af8319db01e0.png)
 
+#HTML Drag and Drop API Events 
+
 ### event : drag
 
 It is fired when a dragged item is dragged.
