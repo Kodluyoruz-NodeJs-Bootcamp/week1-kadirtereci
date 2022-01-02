@@ -1,10 +1,10 @@
 body {
-  background-image: url("gusto-remote-bg.png");
+  background-image: url("public/gusto-remote-bg.png");
   background-size: cover;
 }
 
 .imgBox {
-  background-image: url("patika.png");
+  background-image: url("public/patika.png");
   position: relative;
   height: 250px;
   width: 250px;
