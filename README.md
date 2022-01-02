@@ -7,6 +7,8 @@ This project is made for HTML Drag and Drop API example.
 <p style="text-align: center;">
     screenshot of example
 </p>
+
+<span align="center"> <h1> screenshot of example </h1> </span>
 # HTML Drag and Drop API Events 
 
 ### event : drag
