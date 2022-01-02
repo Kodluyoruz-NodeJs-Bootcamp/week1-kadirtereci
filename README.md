@@ -4,11 +4,8 @@
 This project is made for HTML Drag and Drop API example.
 
 ![image](https://user-images.githubusercontent.com/46989233/147888412-b40d080d-2b19-4be2-96ca-af8319db01e0.png)
-<p style="text-align: center;">
-    screenshot of example
-</p>
+<span align="center">  screenshot of example </span>
 
-<span align="center"> <h1> screenshot of example </h1> </span>
 # HTML Drag and Drop API Events 
 
 ### event : drag
